@@ -20,10 +20,10 @@
 ```python
 class PrachiBarve:
     def __init__(self):
-        self.role = "AI Engineer & Published Researcher"
+        self.role = "Software Engineer & Published Researcher"
         self.location = "Pune, India"
         self.education = "MCA, SPPU | BCS, SPPU"
-        self.focus = ["Multi-Agent AI Systems", "MCP Servers", "ML Pipelines", "Backend Engineering"]
+        self.focus = ["DSA", "OOPS", "AI/ML", "Backend Engineering"]
         self.current_role = "Software Developer Intern @ Sarvashikshan"
         self.fun_fact = "I taught a model to sniff out network anomalies with 80-90% accuracy 🕵️"
 
